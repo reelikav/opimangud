@@ -1,4 +1,4 @@
-# Õpimangud
+# Õpimängud
 ## Vaibkooditud õpimängud
 
 1. Üks
